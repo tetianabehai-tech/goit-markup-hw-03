@@ -2,11 +2,13 @@
   padding: 100px 0;
   background-color: #2e2f42;
 }
+
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
   color: #f4f4fd;
 }
+
 .footer-text {
   max-width: 264px;
   color: #f4f4fd;

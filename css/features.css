@@ -2,9 +2,11 @@
   display: flex;
   gap: 24px;
 }
+
 .feature-item {
   width: calc((100% - 72px) / 4);
 }
+
 .feature-title {
   margin-bottom: 8px;
   color: #2e2f42;
@@ -13,6 +15,7 @@
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
+
 .feature-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
